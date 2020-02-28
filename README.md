@@ -5,6 +5,6 @@ For Login:
 Username: adilotha@gmail.com
 Password: adil7797
 
-To run on localhost:
+To run on localhost:\n
 Import all files.
 Import Database dbms_project.sql to phpMyAdmin.
